@@ -1,55 +1,55 @@
 {
     "items": [{
-        "image": {require("./images/bchicken.jpg")},
+        "image": "require('./images/bchicken.jpg')",
         "rname": "Yum Yum",
         "cuisine": "Indian",
         "rating": 4.5,
         "time": 45,
         "price": 256
     },{
-        "image": require("./images/bchicken.jpg"),
+        "image": "require('./images/bchicken.jpg')",
         "rname": "Prabin Tiffins",
         "cuisine": "South Indian",
         "rating": 4.1,
         "time": 23,
         "price": 100
     },{
-        "image": require("./images/bchicken.jpg"),
+        "image": "require('./images/bchicken.jpg')",
         "rname": "Parivar",
         "cuisine": "Indian",
         "rating": 3.8,
         "time": 41,
         "price": 230
     },{
-        "image": require("./images/bchicken.jpg"),
+        "image": "require('./images/bchicken.jpg')",
         "rname": "Rasoi",
         "cuisine": "Indian,Chinese",
         "rating": 3.7,
         "time": 47,
         "price": 300
     },{
-        "image": require("./images/bchicken.jpg"),
+        "image": "require('./images/bchicken.jpg')",
         "rname": "Tara Tiffins & Tea",
         "cuisine": "Indian",
         "rating": 3.9,
         "time": 22,
         "price": 45
     },{
-        "image": require("./images/bchicken.jpg"),
+        "image": "require('./images/bchicken.jpg')",
         "rname": "Javith's",
         "cuisine": "Chinese",
         "rating": 4.7,
         "time": 30,
         "price": 135
     },{
-        "image": require("./images/bchicken.jpg"),
+        "image": "require('./images/bchicken.jpg')",
         "rname": "Bevarsi",
         "cuisine": "Indian",
         "rating": 4.2,
         "time": 45,
         "price": 300
     },{
-        "image": require("./images/bchicken.jpg"),
+        "image": "require('./images/bchicken.jpg')",
         "rname": "Explazo Drive-in",
         "cuisine": "Italian",
         "rating": 4.6,
