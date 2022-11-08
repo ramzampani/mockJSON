@@ -1,6 +1,6 @@
 {
     "items": [{
-        "image": require("./images/bchicken.jpg"),
+        "image": {require("./images/bchicken.jpg")},
         "rname": "Yum Yum",
         "cuisine": "Indian",
         "rating": 4.5,
