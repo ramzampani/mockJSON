@@ -7,49 +7,49 @@
         "time": 45,
         "price": 256
     },{
-        "image": "./images/bchicken.jpg",
+        "image": "./images/dosa.webp",
         "rname": "Prabin Tiffins",
         "cuisine": "South Indian",
         "rating": 4.1,
         "time": 23,
         "price": 100
     },{
-        "image": "./images/bchicken.jpg",
+        "image": "./images/meal.webp",
         "rname": "Parivar",
         "cuisine": "Indian",
         "rating": 3.8,
         "time": 41,
         "price": 230
     },{
-        "image": "./images/bchicken.jpg",
+        "image": "./images/biriyani.webp",
         "rname": "Rasoi",
         "cuisine": "Indian,Chinese",
         "rating": 3.7,
         "time": 47,
         "price": 300
     },{
-        "image": "./images/bchicken.jpg",
+        "image": "./images/idly.jpg",
         "rname": "Tara Tiffins & Tea",
         "cuisine": "Indian",
         "rating": 3.9,
         "time": 22,
         "price": 45
     },{
-        "image": "./images/bchicken.jpg",
+        "image": "./images/shawarma.webp",
         "rname": "Javith's",
         "cuisine": "Chinese",
         "rating": 4.7,
         "time": 30,
         "price": 135
     },{
-        "image": "./images/bchicken.jpg",
+        "image": "./images/pbiryani.webp",
         "rname": "Bevarsi",
         "cuisine": "Indian",
         "rating": 4.2,
         "time": 45,
         "price": 300
     },{
-        "image": "./images/bchicken.jpg",
+        "image": "./images/pizza.webp",
         "rname": "Explazo Drive-in",
         "cuisine": "Italian",
         "rating": 4.6,
