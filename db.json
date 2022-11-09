@@ -1,56 +1,56 @@
 {
     "items": [{
         "image": "./images/bchicken.jpg",
-        "rname": "Yum Yum",
+        "rname": "Chicken Butter Masala",
         "cuisine": "Indian",
         "rating": 4.5,
         "time": 45,
         "price": 256
     },{
         "image": "./images/dosa.webp",
-        "rname": "Prabin Tiffins",
+        "rname": "Dosa",
         "cuisine": "South Indian",
         "rating": 4.1,
         "time": 23,
         "price": 100
     },{
         "image": "./images/meal.webp",
-        "rname": "Parivar",
-        "cuisine": "Indian",
+        "rname": "Full meals",
+        "cuisine": "South Indian",
         "rating": 3.8,
         "time": 41,
         "price": 230
     },{
         "image": "./images/biriyani.webp",
-        "rname": "Rasoi",
-        "cuisine": "Indian,Chinese",
+        "rname": "Biriyani",
+        "cuisine": "Indian",
         "rating": 3.7,
         "time": 47,
         "price": 300
     },{
         "image": "./images/idly.jpg",
-        "rname": "Tara Tiffins & Tea",
+        "rname": "Idly",
         "cuisine": "Indian",
         "rating": 3.9,
         "time": 22,
         "price": 45
     },{
         "image": "./images/shawarma.webp",
-        "rname": "Javith's",
-        "cuisine": "Chinese",
+        "rname": "Shawarma",
+        "cuisine": "North Indian",
         "rating": 4.7,
         "time": 30,
         "price": 135
     },{
         "image": "./images/pbiryani.webp",
-        "rname": "Bevarsi",
+        "rname": "Special Biriyani",
         "cuisine": "Indian",
         "rating": 4.2,
         "time": 45,
-        "price": 300
+        "price": 350
     },{
         "image": "./images/pizza.webp",
-        "rname": "Explazo Drive-in",
+        "rname": "Pizza",
         "cuisine": "Italian",
         "rating": 4.6,
         "time": 43,
